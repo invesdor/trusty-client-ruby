@@ -6,7 +6,6 @@ require "trustly/version"
 Gem::Specification.new do |gem|
   gem.name    = 'trustly-client-ruby'
   gem.version = Trustly::VERSION
-  gem.date    = Date.today.to_s
 
   gem.summary = "Trustly Client Ruby Support"
   gem.description = "Support for Ruby use of trustly API"
